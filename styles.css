@@ -28,9 +28,8 @@ h1{
 .myForm{
   float:right;
   width:53%;
-  padding:20px;
+  padding:10px;
   border:1px;
-  border-width:2px;
   border-color:White;
   border-style:solid;
   border-collapse:collapse;
